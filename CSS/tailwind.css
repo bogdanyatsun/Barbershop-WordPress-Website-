@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-base: #0f1115;
+  --color-bg-surface: #171a21;
+  --color-bg-card: #1e222b;
+  --color-bg-subtle: #272d38;
+
+  --color-gold: #c5a059;
+  --color-gold-hover: #dfb96c;
+  --color-gold-dim: rgba(197, 160, 89, 0.15);
+
+  --color-text-main: #f0f3f8;
+  --color-text-muted: #9fa7b8;
+  --color-border-dark: #2e3646;
+
+  --font-serif: "Cinzel", serif;
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+}
